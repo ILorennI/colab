@@ -1,4 +1,1 @@
-# Colaboration
-
-21/11/23
-
+Colaboration
